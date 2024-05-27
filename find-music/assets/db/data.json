@@ -1,0 +1,184 @@
+{
+  "music": [
+    {
+      "id": 1,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "releaseYear": 2020,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/3dthumb/ehrx2p1610621212.png",
+      "youtubeLink": "https://www.youtube.com/watch?v=4NRXx6U8ABQ"
+    },
+    {
+      "id": 2,
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "album": "÷",
+      "releaseYear": 2017,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/3dthumb/663cpm1605427555.png",
+      "youtubeLink": "https://www.youtube.com/watch?v=JGwWNGJdvx8"
+    },
+    {
+      "id": 3,
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "album": "Uptown Special",
+      "releaseYear": 2014,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/3dthumb/ivgn871610463578.png",
+      "youtubeLink": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+    },
+    {
+      "id": 4,
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "album": "21",
+      "releaseYear": 2010,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/3dthumb/e4i40g1637753900.png",
+      "youtubeLink": "https://www.youtube.com/watch?v=rYEDA3JcQqw"
+    },
+    {
+      "id": 5,
+      "title": "Bad Guy",
+      "artist": "Billie Eilish",
+      "album": "When We All Fall Asleep, Where Do We Go?",
+      "releaseYear": 2019,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/3dthumb/nw1v351605881064.png",
+      "youtubeLink": "https://www.youtube.com/watch?v=DyDfgMOUjCI"
+    },
+    {
+      "id": 6,
+      "title": "Pour que tu m'aimes encore",
+      "artist": "Céline Dion",
+      "album": "D'eux",
+      "releaseYear": 1995,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/thumb/qtrtvr1367235726.jpg",
+      "youtubeLink": "https://www.youtube.com/watch?v=AzaTyxMduH4"
+    },
+    {
+      "id": 7,
+      "title": "Can't Stop the Feeling!",
+      "artist": "Justin Timberlake",
+      "album": "Trolls: Original Motion Picture Soundtrack",
+      "releaseYear": 2016,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/thumb/wqquus1484083485.jpg",
+      "youtubeLink": "https://www.youtube.com/watch?v=ru0K8uYEZWw"
+    },
+    {
+      "id": 8,
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "album": "Girl",
+      "releaseYear": 2013,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/3dthumb/5quidx1612699217.png",
+      "youtubeLink": "https://www.youtube.com/watch?v=ZbZSe6N_BXs"
+    },
+    {
+      "id": 9,
+      "title": "Senorita",
+      "artist": "Shawn Mendes, Camila Cabello",
+      "album": "Shawn Mendes",
+      "releaseYear": 2019,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/thumb/wvptwp1527245047.jpg",
+      "youtubeLink": "https://www.youtube.com/watch?v=Pkh8UtuejGw"
+    },
+    {
+      "id": 10,
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "album": "21",
+      "releaseYear": 2011,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/3dthumb/e4i40g1637753900.png",
+      "youtubeLink": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
+    },
+    {
+      "id": 11,
+      "title": "Shallow",
+      "artist": "Lady Gaga, Bradley Cooper",
+      "album": "A Star Is Born Soundtrack",
+      "releaseYear": 2018,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/thumb/xfe6yj1642583231.jpg",
+      "youtubeLink": "https://www.youtube.com/watch?v=bo_efYhYU2A"
+    },
+    {
+      "id": 12,
+      "title": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+      "album": "x",
+      "releaseYear": 2014,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/3dthumb/663cpm1605427555.png",
+      "youtubeLink": "https://www.youtube.com/watch?v=lp-EO5I60KA"
+    },
+    {
+      "id": 13,
+      "title": "Royals",
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "releaseYear": 2013,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/3dthumb/yqzt8l1609908349.png",
+      "youtubeLink": "https://www.youtube.com/watch?v=nlcIKh6sBtc"
+    },
+    {
+      "id": 14,
+      "title": "Havana",
+      "artist": "Camila Cabello ft. Young Thug",
+      "album": "Camila",
+      "releaseYear": 2017,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/3dthumb/jpq9y81605705202.png",
+      "youtubeLink": "https://www.youtube.com/watch?v=HCjNJDNzw8Y"
+    },
+    {
+      "id": 15,
+      "title": "Levitating",
+      "artist": "Dua Lipa ft. DaBaby",
+      "album": "Future Nostalgia",
+      "releaseYear": 2020,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/3dthumb/8zowwn1605429434.png",
+      "youtubeLink": "https://www.youtube.com/watch?v=TUVcZfQe-Kw"
+    },
+    {
+      "id": 16,
+      "title": "Stay",
+      "artist": "The Kid LAROI, Justin Bieber",
+      "album": "F*CK LOVE 3: OVER YOU",
+      "releaseYear": 2021,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/thumb/6r318z1616095865.jpg",
+      "youtubeLink": "https://www.youtube.com/watch?v=kTJczUoc26U"
+    },
+    {
+      "id": 17,
+      "title": "Peaches",
+      "artist": "Justin Bieber ft. Daniel Caesar, Giveon",
+      "album": "Justice",
+      "releaseYear": 2021,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/thumb/4pyk011616275927.jpg",
+      "youtubeLink": "https://www.youtube.com/watch?v=tQ0yjYUFKAE"
+    },
+    {
+      "id": 18,
+      "title": "Sunflower",
+      "artist": "Post Malone, Swae Lee",
+      "album": "Spider-Man: Into the Spider-Verse",
+      "releaseYear": 2018,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/thumb/yrrvrx1544338209.jpg",
+      "youtubeLink": "https://www.youtube.com/watch?v=ApXoWvfEYVU"
+    },
+    {
+      "id": 19,
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "album": "Fine Line",
+      "releaseYear": 2019,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/3dthumb/xspuvs1576489464.png",
+      "youtubeLink": "https://www.youtube.com/watch?v=E07s5ZYygMg"
+    },
+    {
+      "id": 20,
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "releaseYear": 2020,
+      "coverImg": "https://www.theaudiodb.com/images/media/album/3dthumb/ehrx2p1610621212.png",
+      "youtubeLink": "https://www.youtube.com/watch?v=XXYlFuWEuKI"
+    }
+  ]
+}

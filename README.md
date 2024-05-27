@@ -1,4 +1,4 @@
-# Find music
+# Revision ideas
 
 ![Languages used](https://img.shields.io/github/languages/count/isadfrn/revision-ideas?style=flat-square)
 ![Repository size](https://img.shields.io/github/repo-size/isadfrn/revision-ideas?style=flat-square)
@@ -6,23 +6,11 @@
 
 ## About
 
-This is a simple music listing app.
+This is an personal repository for tiny projects to be used in review days.
 
 ## Run
 
-Install json-server to fake an API:
-
-```
-npm install -g json-server
-```
-
-then run:
-
-```
-json-server --watch ./assets/db/data.json
-```
-
-After that, you need to install [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), right click on `index.html` file and then click on `Open with Live Server`.
+Check each project README file.
 
 ## Contributing
 

@@ -6,7 +6,7 @@
 
 ## About
 
-This is an personal repository for tiny projects to be used in review days.
+Some tiny projects to be used in review days to teach mostly frontend development.
 
 ## Run
 

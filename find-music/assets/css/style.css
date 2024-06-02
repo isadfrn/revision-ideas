@@ -1,0 +1,108 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  padding: 2rem 0;
+}
+
+button {
+  border: none;
+  background: none;
+}
+
+button:hover {
+  cursor: pointer;
+  filter: brightness(2);
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.music_list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.music_item {
+  width: 12rem;
+  padding: 1rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.music_item img {
+  max-width: 8rem;
+  border-radius: 1rem;
+}
+
+.music_item button {
+  background-color: #000;
+  color: #fff;
+  padding: 0.5rem;
+}
+
+.youtube_modal {
+  background-color: #000000b7;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  transition: 200ms all ease;
+}
+
+.youtube_modal_content {
+  background-color: #000;
+  width: 80%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem;
+}
+
+.youtube_modal_content span {
+  color: #fff;
+  font-size: 1.5rem;
+  position: relative;
+  top: -3.5rem;
+  right: -1.2rem;
+}
+
+.youtube_modal_content span:hover {
+  cursor: pointer;
+}
+
+.youtube_modal_link {
+  background: #d21616;
+  padding: 0.4rem;
+}

@@ -22,7 +22,7 @@ const showMusicList = (musicData) => {
     <h3>${music.title}</h3>
     <p>${music.artist}</p>
     <p>${music.album} (${music.releaseYear})</p>
-    <button onclick="openModal('${music.youtubeLink}')">Ouvir</button>
+    <button onclick="openModal('${music.youtubeLink}')">Listen</button>
     `;
     musicList.appendChild(musicItem);
   });

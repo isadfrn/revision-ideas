@@ -1,5 +1,7 @@
 # Find music
 
+![](./assets/img/demo.gif)
+
 ## About
 
 This is a simple music listing app.

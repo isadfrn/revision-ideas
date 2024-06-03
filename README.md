@@ -10,7 +10,9 @@ This repository contains a collection of diverse projects used as examples durin
 
 ## Run
 
-Check each project README file.
+Check each project README file:
+
+- [Find Music](./find-music/README.md)
 
 ## Contributing
 

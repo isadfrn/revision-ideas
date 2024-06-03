@@ -6,7 +6,7 @@
 
 ## About
 
-Some tiny projects to be used in review days to teach mostly frontend development.
+This repository contains a collection of diverse projects used as examples during code review sessions with my students.
 
 ## Run
 

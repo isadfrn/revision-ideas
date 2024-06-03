@@ -35,7 +35,7 @@ ul {
 
 .container {
   width: 90%;
-  margin: 0 auto;
+  margin: 0 auto 3rem;
 }
 
 .music_list {
@@ -54,7 +54,7 @@ ul {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  gap: 0.2rem;
+  gap: 0.4rem;
 }
 
 .music_item img {
@@ -72,7 +72,7 @@ ul {
   background-color: #000000b7;
   height: 100%;
   width: 100%;
-  position: absolute;
+  position: fixed;
   top: 0;
   display: none;
   justify-content: center;
@@ -82,7 +82,7 @@ ul {
 
 .youtube_modal_content {
   background-color: #000;
-  width: 80%;
+  width: 40%;
   height: 10rem;
   display: flex;
   align-items: center;
